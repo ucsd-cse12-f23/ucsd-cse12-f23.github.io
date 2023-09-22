@@ -1,0 +1,14 @@
+<div class='sub-sidebar'>
+
+<ul>
+{% assign lectures = site.lectures | sort: "index" %}
+{% for lecture in lectures %}
+{% if page.url == lecture.url %}
+<li class="current"><a title="{{ lecture.index }}" href="{{ lecture.url }}">{{ lecture.name }}</a></li>
+{% else %}
+<li><a title="{{ lecture.index }}" href="{{ lecture.url }}">{{ lecture.name }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+</div>

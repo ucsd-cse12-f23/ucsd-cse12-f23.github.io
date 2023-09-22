@@ -1,0 +1,15 @@
+safe: true
+title: "Introduction to Programming – UCSD CSE 8A"
+source: .
+destination: _site
+lsi: false
+url: "https://uscd-cse8a-w20.github.io/"
+:pygments: true
+collections:
+  lectures:
+    output: true
+  assignments:
+    output: true
+  assignments-drafts:
+    output: true
+theme: jekyll-theme-midnight

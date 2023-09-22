@@ -1,0 +1,174 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    min-height: 100%;
+}
+
+.sidebar {
+    padding-top: 1em;
+    font-size: 11pt;
+    width: 6em;
+    background-color: white;
+    box-shadow: 1px 0px 1px #aaaaaa;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar li a {
+    color: black;
+    text-decoration: none;
+    width: 5em;
+    height: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+.sidebar li a:hover {
+    background: #00c6d7; /* https://brand.ucsd.edu/logos-and-brand-elements/color-palette/index.html */
+    transition: background-color 0.5s ease;
+    box-shadow: 1px 1px 2px #aaaaaa;
+}
+
+.sidebar li a img {
+    width: 2em;
+}
+
+.sidebar li .numbers {
+    font-family: sans-serif;
+    font-size: 16pt;
+}
+
+.sidebar ul {
+    width: 100%;
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar li {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    white-space: nowrap;
+    justify-content: space-around;
+}
+
+.content {
+    flex-grow: 1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: content-box;
+    max-width: 45em;
+    margin: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 13pt;
+}
+
+.content a {
+    color: #fc8900;
+}
+
+.content p,
+.content ul {
+    line-height: 1.5;
+}
+
+.content code {
+    color: #6E963B
+}
+
+.content h1,
+.content h2,
+.content h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sub-sidebar {
+    padding-top: 1em;
+    width: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 1px 0px 2px #FC8900;
+}
+
+
+
+.sub-sidebar li a {
+    color: black;
+    text-decoration: none;
+    width: 100%;
+    height: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 10pt;
+}
+
+.sub-sidebar li a:hover {
+    background: #FC8900; /* https://brand.ucsd.edu/logos-and-brand-elements/color-palette/index.html */
+    transition: background-color 0.5s ease;
+    box-shadow: 1px 1px 1px #aaaaaa;
+}
+
+.sub-sidebar li .numbers {
+    font-family: sans-serif;
+    font-size: 16pt;
+}
+
+/*
+.sub-sidebar li a:hover::after {
+    position: absolute;
+    left: 100%;
+    content: attr(hover);
+    color: black;
+    border-radius: 3px;
+    border: 1px solid black;
+    box-shadow: 3px 3px black;
+    padding: 3px;
+    background: white;
+    width: 5em;
+    text-align: center;
+}
+*/
+
+.sub-sidebar ul {
+    width: 100%;
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+
+.sub-sidebar li {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.sub-sidebar li.current {
+    background-color: #FC8900;
+    box-shadow: 1px 1px 1px #aaaaaa;
+}
+
+.worksheetBox{
+    float:left;
+    margin-right:20px;
+}
+
+.sidenote {
+    float: right;
+    margin-right: -17rem;
+    width: 14rem;
+    background-color: #ddd;
+    padding: 0.5rem;
+}

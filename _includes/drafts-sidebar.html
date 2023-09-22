@@ -1,0 +1,13 @@
+<div class='sub-sidebar'>
+
+    <ul>
+    {% for assignment in site.assignments-drafts %}
+    {% if page.url == assignment.url %}
+    <li class="current"><a title="{{ assignment.index }}" href="{{ assignment.url }}">{{ assignment.name }}</a></li>
+    {% else %}
+    <li><a title="{{ assignment.index }}" href="{{ assignment.url }}">{{ assignment.name }}</a></li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+    
+</div>
