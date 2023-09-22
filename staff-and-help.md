@@ -13,7 +13,7 @@ Quick links:
 - [Course FAQs (includes waitlist FAQs)](#faq)
 - Piazza Message Board: [https://piazza.com/class/lfkeh7em1lb7n3/](https://piazza.com/class/lfkeh7em1lb7n3/){:target="_blank"}
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
-- Tutoring Procedurs: [https://docs.google.com/document/d/1pVPE2OyU9atRsfIN221EnR9vE3qTgJrlPJ7J6vdXfY4/edit?usp=sharing](https://docs.google.com/document/d/1pVPE2OyU9atRsfIN221EnR9vE3qTgJrlPJ7J6vdXfY4/edit?usp=sharing){:target="_blank"}
+- Tutoring Procedurs: [https://docs.google.com/document/d/16L0N2ASrPRID6di404vrbs3I_xkavs_7UG0G5CcGDuQ/edit?usp=sharing](https://docs.google.com/document/d/16L0N2ASrPRID6di404vrbs3I_xkavs_7UG0G5CcGDuQ/edit?usp=sharing){:target="_blank"}
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
   - You have permission to use _any_ lab, but prefer to use the B240 lab if space is available, that's where our staff will be based
 - Greg Miranda
