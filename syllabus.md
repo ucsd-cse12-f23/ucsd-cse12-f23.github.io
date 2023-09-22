@@ -1,10 +1,10 @@
 ---
 layout: with-sidebar
-title: "Syllabus – UCSD CSE12 Spring 23"
+title: "Syllabus – UCSD CSE12 Fall 23"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 12 Spring 2023
+# UCSD CSE 12 Fall 2023
 ## Basic Data Structures and Object-Oriented Design
 
 _Greg Miranda_
