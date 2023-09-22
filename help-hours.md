@@ -20,7 +20,7 @@ that you may meet with tutors and TAs to receive help. Office hours to meet with
 are a different option, and are explained later on this page. 
 
 The process for getting help can be found in the
-[Tutoring Procedurs](https://docs.google.com/document/d/1pVPE2OyU9atRsfIN221EnR9vE3qTgJrlPJ7J6vdXfY4/edit?usp=sharing){:target="_blank"} document.
+[Tutoring Procedurs](https://docs.google.com/document/d/16L0N2ASrPRID6di404vrbs3I_xkavs_7UG0G5CcGDuQ/edit?usp=sharing){:target="_blank"} document.
 
 Once you've submitted a ticket, a staff member will accept your ticket when available. You will get 
 updates in autograder about your ticket once you file it.
