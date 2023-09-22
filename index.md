@@ -3,7 +3,7 @@ layout: with-sidebar
 title: "UCSD CSE12 – Basic Data Structures and Object-Oriented Design"
 ---
 
-# UCSD CSE 12 Spring 2023
+# UCSD CSE 12 Fall 2023
 ## Basic Data Structures and Object-Oriented Design
 
 _Greg Miranda_
