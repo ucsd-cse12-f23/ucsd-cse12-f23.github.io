@@ -5,7 +5,7 @@ title: "UCSD CSE12 – Basic Data Structures and Object-Oriented Design"
 # UCSD CSE 12 Fall 2023
 ## Asking Questions and Getting Help
 
-There are 17 staff members (instructor, TAs, and tutors) to help with your
+There are 14 staff members (instructor, TAs, and tutors) to help with your
 learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
@@ -18,7 +18,7 @@ Quick links:
   - You have permission to use _any_ lab, but prefer to use the B240 lab if space is available, that's where our staff will be based
 - Greg Miranda
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Office hours**: Wednesday 10:00am-11:00am, Friday 10:00am-11:00am, CSE 4204
+  - **Office hours**: Tuesday 10:00am-11:00am (remote), Friday 12:30pm-1:30pm, CSE 4204
 
 Do NOT use the Canvas mailing feature to contact us. We will NOT respond to those
 messages. If you need to send a private message to the instructor, you can use his ucsd email
@@ -78,7 +78,7 @@ likely summarizes a lot of what they would tell you to get you started.
 **What's the course material like?**
 
 You can see a [previous version of the
-course](https://ucsd-cse12-f22.github.io/){:target="_blank"}, which will give you a sense. This
+course](https://ucsd-cse12-sp23.github.io/){:target="_blank"}, which will give you a sense. This
 offering will not be identical, but will be similar.
 
 There is no required textbook for you to purchase for the course. The course uses a combination of online resources and notes from the instructors.
