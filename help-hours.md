@@ -31,7 +31,7 @@ You can get remote help from anywhere as long as you have a stable internet conn
 
 Then follow the steps in the tutoring procedures document for submitting a ticket.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_63085ff4ec7102375ab5e8f5412a7859bb1e119f3fe3cb06327616c83c4a4cc0%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_9c571272f9c47629fffb64f2665c8aed40a9943972f691eddfab6166786f1cdc%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### In-person Help
 
@@ -43,7 +43,7 @@ Then follow the steps in the tutoring procedures document for submitting a ticke
 Check on this calendar for our *in-person* availability (also available on the general calendar
 page):
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_49310e531a598365bcad10ea69a0cc9aa47dbf69f9d3601a4e0996c8e69cca1c%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_3d8235306a63f08141e5ff7475e854ce68d12bdaa51616da3c55d57752b4a2a4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 #### More information on finding the in-person labs:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13402.475705970317!2d-117.2335235!3d32.8818006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7dc3be7597d4d47!2sComputer%20Science%20and%20Engineering%20Building!5e0!3m2!1sen!2sus!4v1632176178912!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
