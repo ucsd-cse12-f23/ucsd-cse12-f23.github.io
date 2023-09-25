@@ -41,4 +41,4 @@ Videos (to watch **before** lecture):
 
 ## Notes & Files from Live-Lecture
 
-[Lecture Notes](https://github.com/ucsd-cse12-sp23/ucsd-cse12-sp23.github.io/tree/main/_lectures/lecture-02){:target="_blank"}
+[Lecture Notes](https://github.com/ucsd-cse12-f23/ucsd-cse12-f23.github.io/tree/main/_lectures/lecture-02){:target="_blank"}
