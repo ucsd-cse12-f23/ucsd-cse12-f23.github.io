@@ -18,7 +18,7 @@ Quick links:
   - You have permission to use _any_ lab, but prefer to use the B240 lab if space is available, that's where our staff will be based
 - Greg Miranda
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Office hours**: Tuesday 10:00am-11:00am (remote), Friday 12:30pm-1:30pm, CSE 4204
+  - **Office hours**: Tuesday 9:00am-10:00am (remote), Friday 12:30pm-1:30pm, CSE 4204
 
 Do NOT use the Canvas mailing feature to contact us. We will NOT respond to those
 messages. If you need to send a private message to the instructor, you can use his ucsd email
