@@ -53,8 +53,8 @@ Videos (to watch **after** lecture):
 
 ## Handout
 
-<iframe src="https://drive.google.com/file/d/116uXHVwysfwaJmPqaF9tO1-UYURHIYEC/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1Q6ebPG9v4_1m400tcbMVlS2pWmCW1zlL/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Lecture 
 
-[Lecture Notes](https://github.com/ucsd-cse12-sp23/ucsd-cse12-sp23.github.io/tree/main/_lectures/lecture-01){:target="_blank"}
+[Lecture Notes](https://github.com/ucsd-cse12-f23/ucsd-cse12-f23.github.io/tree/main/_lectures/lecture-01){:target="_blank"}
