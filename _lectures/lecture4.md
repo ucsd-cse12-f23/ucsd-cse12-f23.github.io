@@ -12,7 +12,7 @@ videos:
 
 _{{ page.released-on }}_
 
-Optional readings (to be completed **before** lecture). 
+Optional readings (should be completed **before** lecture). 
 - [Stepik 3.1-3.8](https://stepik.org/lesson/687833/step/1?unit=687068){:target="_blank"}
 
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
