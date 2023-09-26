@@ -68,11 +68,6 @@ an archive of any live demos that come up rather than a presentation of core con
 It can be helpful to watch the first few minutes of each lecture to see any
 annoucements. Not all annoucements are made on Piazza.
 
-
-
-
-
-
 <h3>Discussion</h3>
 
 **In-person discussion** will reinforce concepts from class and introduce concepts that 
