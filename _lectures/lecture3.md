@@ -29,7 +29,7 @@ Videos (to watch **before** lecture):
 
 ## Notes & Files from Pre-Lecture Videos
 
-[Pre-Lecture 3](https://github.com/ucsd-cse12-sp23/ucsd-cse12-sp23.github.io/tree/main/_pre-lectures/lecture-03){:target="_blank"}
+[Pre-Lecture 3](https://github.com/ucsd-cse12-f23/ucsd-cse12-sp23.github.io/tree/main/_pre-lectures/lecture-03){:target="_blank"}
 
 ## Handout
 
