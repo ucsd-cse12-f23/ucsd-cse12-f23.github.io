@@ -13,17 +13,17 @@ This optional assignment will teach you how to setup Java and Eclipse, get the s
 
 Any IDE can be used, however, the course staff is most familiar with Eclipse and may not be able to help you with IDE issue if you choose to use a different IDE such as IntelliJ. Note: you can also use a text editor and commandline if you wish, an IDE is not required. VSCode also works fine for editing files, but using the commandline with jUnit can be difficult. There are plugins for using jUnit in VSCode, but you will need to discover those on your own as the course staff is not familiar with them.
 
-There is no submission or grade for this assignment. You should complete the installation and setup of your Java tools prior to starting PA1 which will be released on Wednesday, April 5th.
+There is no submission or grade for this assignment. You should complete the installation and setup of your Java tools prior to starting PA1 which will be released on Monday, October 2nd.
 
-If you run into any problems, please reach out to a tutor during tutor hours using [https://autograder.ucsd.edu/](https://autograder.ucsd.edu/){:target="_blank"} to get 1-on-1 help (make sure to select CSE 12 - SP23), or stop by instructor/TA office hours.
+If you run into any problems, please reach out to a tutor during tutor hours using [https://autograder.ucsd.edu/](https://autograder.ucsd.edu/){:target="_blank"} to get 1-on-1 help (make sure to select CSE 12 - FA23), or stop by instructor/TA office hours.
 
 What if you already have a different version of Java? In general, you will most likely be fine, but if you run into problems compiling and running your code, we will suggest uninstalling your old version and reinstalling the latest JDK.
 
 ## Using the CSE Basement Lab Computers
 
-Log into your cs12sp23 account.
+Log into your cs12f23 account.
 - If the lab computer is in Windows then restart and choose CentOS.
-- If you’re logged into the lab machine with your regular UCSD credentials, first log out. Then, log in to the machine with your CSE 12 account. The username starts with "cs12sp23". If you don’t know what it is, use the ACMS account lookup tool: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php){:target="_blank"}.
+- If you’re logged into the lab machine with your regular UCSD credentials, first log out. Then, log in to the machine with your CSE 12 account. The username starts with "cs12f23". If you don’t know what it is, use the ACMS account lookup tool: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php){:target="_blank"}.
 
 ## Download Java & Eclipse
 
@@ -31,7 +31,7 @@ Follow this document to install Java and Eclipse for either Windows or Mac: [Ins
 
 ## Getting the Code
 
-The starter code can be found at the following [Github repository](https://github.com/ucsd-cse12-sp23/cse12-pa0-starter){:target="_blank"}. If you are not familiar with Github, here are two easy ways to get your code.
+The starter code can be found at the following [Github repository](https://github.com/ucsd-cse12-f23/cse12-pa0-starter){:target="_blank"}. If you are not familiar with Github, here are two easy ways to get your code.
 
 1. Download as a ZIP folder 
 
