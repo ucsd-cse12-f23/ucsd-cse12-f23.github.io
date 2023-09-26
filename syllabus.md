@@ -46,16 +46,17 @@ We may adjust the above scale to be more lenient
 that we will not adjust the scale to make it harder to get a better grade. 
 We will not adjust the scale for individual students.  
 
-<h3>Problem Sessions – Lectures</h3>
+<h3>Lectures</h3>
 
 Most course content will be presented asynchronously through videos and readings, 
 with associated interactive activities which should be completed before lecture. 
+
 Lectures will involve problem solving with your classmates along with an opportunity
-to ask quesitons about the material.  Participation is not required at problem-solving sections, 
+to ask quesitons about the material. Participation is not required at problem-solving sections, 
 but it is highly encouraged.
 
-It is very important that students watch all pre-leture videos and go through the Stepilk 
-readings as this is the primary way to learn the CSE 12 material. 
+It is very important that students watch all pre-lecture videos as this is the 
+primary way to learn the CSE 12 material. 
 
 **In-person lectures** will be led during the normally-scheduled lecture times
 in the normally-scheduled room, led by the instructor. These sessions will be
@@ -67,36 +68,41 @@ an archive of any live demos that come up rather than a presentation of core con
 It can be helpful to watch the first few minutes of each lecture to see any
 annoucements. Not all annoucements are made on Piazza.
 
-Starting with the second lecture, we will take attendance during lecture (except exams). You must attend at least 20 lectures to earn full credit for lecture participation. To receive credit for attending, you must make sure to check-in during lecture (check-ins will happen at random times in the middle of the lecture), we will not accept any check-ins after lecture and credit for attendance will not be given retroactively. The correct code for the lecture (given by the instructor during lecture) must be used or credit will not be given for attending the lecture.
 
-Attendance check-ins will be handled through Gradescope therefore it’s highly recommended to download the Gradescope mobile app to your phone so you can upload your worksheets. Otherwise, you will need to hand-in your worksheets to the instructor after
-lecture and come to office hours to get them back. If the file has not uploaded by the end of lecture, hand-in the worksheet before you or the instructor leaves the room. We will not accept any worksheets once Gradescope closes (10 minutes after the lecture is scheduled to end) and the instructor leaves the room.
+
+
+
 
 <h3>Discussion</h3>
 
-**Remote discussion** will reinforce concepts from class and introduce concepts that 
+**In-person discussion** will reinforce concepts from class and introduce concepts that 
 are especially helpful for completing programming assignments. Discussions are also an
 opporunity to ask questions about the assignments as well as the course material. 
 They will be recorded. Attendance is encouraged but optional.
 
-Discussions will also be recorded through Zoom and made available in the 
-Canvas Media Gallery. A link to the discussion will be provided in the calendar and in Canvas.
+Discussions will also be recorded by podcasting but will not be available remotely while they are ongoing. 
+You can find the recordings in the Canvas Media Gallery or at [podcast.ucsd.edu](https://podcast.ucsd.edu){:target="_blank"}
 
-### Stepik Exercises and Course Engagement
+### Course Engagement
 
-Along with each lecture will come some required pre-lecture work. Most often this will be 
-reading and activities from our [Stepik textbook](https://stepik.org/course/109917/syllabus){:target="_blank"}, 
-and will also sometimes include surveys or check-in quizzes so we can get your feedback about the course 
-and check on your understanding.
+We highly recommend actively participating in class, attending discussion, and completing the weekly review quizzes. Regularly engaging with the class in these ways counts towards the Engagement component of your overall score.
+
+This score is calculated on a weekly basis (starting in Week 1). The maximum number of points you can earn in one week is 6. The lowest weekly participation score will be dropped when calculating your overall engagement average.
+
+Earn engagement points by:
+- *In class participation via worksheets* In Weeks 1 through 10 (starting with the second lecture of the quarter), you will earn credit for attending and participating in lecture (3 points each) and discussion section (2 points, up to a maximum of 2 points per week). Worksheets will be graded for participation only and not for correctness of the response. To receive credit for attending, you must make sure to check-in during lecture/discussion (check-ins will happen at random times in the middle of the lecture), we will not accept any check-ins after lecture/discussion and credit for attendance will not be given retroactively. The correct code for the lecture/discussion (given by the instructor/TA during lecture/discussion) must be used or credit will not be given for attending the lecture.
+
+- *Weekly (P)review quiz* Online quizzes review the week’s material and preview some upcoming examples each week. You can submit your answers to each quiz as many times as you like. The latest submission before 8am on Monday will count towards your engagement score. Each weekly review quiz will be worth 6 points. The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from this website, but not to other references. You may not share information about the review quiz with others, take the review quiz in someone else’s name, or ask anyone for prior knowledge about the review quiz.
+
+Attendance check-ins will be handled through Gradescope therefore it’s highly recommended to download the Gradescope mobile app to your phone so you can upload your worksheets. Otherwise, you will need to hand-in your worksheets to the instructor/TA after lecture/discussion and come to office hours to get them back. If the file has not uploaded by the end of lecture/discussion, hand-in the worksheet before you or the instructor/TA leaves the room. We will not accept any worksheets once Gradescope closes (10 minutes after the lecture is scheduled to end) and the instructor/TA leaves the room.
+
+### Stepik Exercises (Textbook)
+
+Along with each lecture will come some optional pre-lecture from our 
+[Stepik textbook](https://stepik.org/course/109917/syllabus){:target="_blank"}.
 
 The Stepik online texbook records your progress, and we give a schedule of expected times to finish the readings 
-(i.e. they are due before the lecture in which they are assigned). There is no penalty for completing these late, but they are assigned so that you will be prepared to participate in problem solving session and so that you know the expected pace of the course.
-
-The due date for Stepik exercises is the beginning of the lecture in which they are assigned. You may turn them in late
-without penalty by the last day of class in Week 10: June 9th, 2023 at 10pm. 
-After this time, no late submissions will be accepted, for any reason.
-
-To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/4UwhBqLGQaZKmwcF7){:target="_blank"} by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
+(i.e. they should be completed before the lecture in which they are assigned). There is no penalty for completing these late as they will not be graded, but they are assigned so that you will be prepared to participate in problem solving session and so that you know the expected pace of the course.
 
 <a id="p:programming"></a>
 <h3>Programming Assignments (PAs)</h3>
@@ -112,20 +118,20 @@ a staff member will grade your work and get feedback on what, if anything, you n
 
 - **After you receive your grade** you can continue to improve your assignment
 based on the feedback from grading. You can resubmit your work to the Late/Resubmit 
-submission which will be open for up to three weeks (less for those assignemtns near 
+submission which will be open for two weeks (less for those assignemtns near 
 the end of the quarter). Once the Late/Resubmit submission closes, your submission
 will again be graded. 
 
 There is no penalty for resubmissions, you can still earn full credit. 
 We will take the highest score between your original submission and your late/resubmission.
 
-The **Late/Resubmit** process applies if your submission is late. You should strive
+The **Late/Resubmit** process also applies if your submission is late. You should strive
 to complete each PA before it's posted deadline as the PAs are practice for the exams.
 You will also receive earlier feedback and an extra grading attempt if you submit
 before the original deadline.
 
 For those assignments near the end of the quarter, the deadline for all late/resubmissions 
-will be Friday of Week 10 at 10pm. We will not accept any submissions after that time, for any reason.
+will be Friday of Week 10 at 8am. We will not accept any submissions after that time, for any reason.
 
 Each student gets a free “slip day” for each programming assignment (PA) that allow an automatic 24-hour 
 extension to submit the PA. You do not have to ask to use your slip day. Just submit your 
@@ -134,7 +140,7 @@ slip day. There is no penalty for using this free slip day.
 
 It's the student's responsibilty to check that the autograder worked and that all files
 have been properly uploaded (by checking the Code tab). We only accept PAs through
-Gradescope before the slip-day deadline. We will not accept any files through email or
+Gradescope before the slip-day deadline. We will not accept any files through email, Canvas, or
 Piazza.
 
 <a id="p:open-closed"></a>
@@ -252,37 +258,24 @@ the link to the folder.
 <a id="g:exams"></a>
 <h3>Exams</h3>
 
-There will be two midterm exams during the quarter, held during the scheduled lecture time:
-- Week 4 - Friday 4/28/2023
-- Week 8 - Friday 5/26/2023
+There will be three in-class exams during the quarter, held during the scheduled lecture time:
+- Week 4 - Wednesday 10/25/2023
+- Week 7 - Wednesday 11/15/2023
+- Week 10 - Wednesday 12/6/2023
 
 The final exam will be:
-- Week 11 - Friday 6/16/2023, 8am - 11am, room will be announced in Week 10
+- Week 11 - Monday 12/11/2023, 8am - 11am, room will be announced in Week 10.
 
 Seats will be assigned for all exam sessions and announced beforehand, and you must bring your school ID to the exam. All work on exams is to be done on your own, and you are not allowed to use any electronics or study aids during the exam (aside from those needed for University-approved academic accommodations). You may not speak to any other student in the exam room while the exam is in progress (including after you hand in your own exam). You may not share any information about the exam with any student who has not yet taken it (including students in future quarters of CSE12).
 
-The first two exams will each be worth 8% of your final grade. The final exam will be worth 24% of your final grade. The final exam will have a specific structure – it will be broken into three parts corresponding to material from the first exam, the second exam, and the remainder of the course. Your grade for each midterm will be the maximum of the midterm grade and the score you get on the corresponding part of the final exam.
+Each in-class exam will each be worth 20% of your final grade. The final exam will be broken into three parts, each corresponding to the material from one of the in-class exams. Your grade for each in-class exam will be the maximum of the in-class score and the score on the corresponding part of the final exam. Note: each part of the final exam is optional if you wish to only use the score of in-class exam for that part.
 
-For example, if you get 50% of the points for midterm 1 and 100% of the points for midterm 2, and then score a 75% on part 1 of the final, 25% on part 2, and 100% on part 3, you would get:
+For example:
+- On the three in-class exams you score 75, 0, and 95 (you miss the second). On the final exam you score 80, 75, and 0 on the three parts. Your exam scores are 80, 75, 95, giving you an exam grade of 50% (16% + 15% + 19%).
+- On the three in-class exams you score 95, 93, and 90. You skip the final so your scores are 0, 0, 0. Your exam scores are 95, 93, 90, giving you an exam grade of 55.6% (19% + 18.6% + 18%).
+- On the three in-class exams you score 75, 55, and 60. On the final you score 95, 90, 94. Your exam scores are 95, 90, 94, giving you an exam grade of 55.8% (19% + 18% + 18.8%).
 
-- MAX(0.5, 0.75) * 8 = 6 points for midterm 1 (0.75 was higher, so the final increased the midterm score!)
-- MAX(1, 0.25) * 8 = 8 points for midterm 2 (0.25 was lower, so the original midterm score was used)
-- 0.75 * 8 + 0.25 * 8 + 1 * 8 = 16 points for the final exam (the score on the final exam is the same regardless of how the midterms went)
-- A total of 30 out of 40 exam points towards your final grade
-
-This policy also covers what happens if you miss a midterm for any reason. If you are absent for a midterm, you get a 0 initially, and then whatever score you get on the final for that section will be applied to your midterm grade. There are no make-up midterms, and the final exam policy is governed by the [university’s policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/){:target="_blank"}.
-
-<h3>Making Up for Participation Using the Final Exam</h3>
-
-You are highly encouraged to attend lectures. However, if you have personal reasons for not wanting to join the lecture, you can choose not to attend them and still receive a perfect grade in the class (however your final exam will be weighted more).
-
-If you participate in at least 20 of lectures after the first lecture (or if you miss up to a maximum of 6 lectures), 
-you receive 100% for your total participation grade (10% of your entire grade). If you participate in fewer than 20 of lectures (i.e., miss more than 6 lectures), your final exam score replaces that portion of your participation grade.  
-
-Three examples:
-- 20 or more lectures attended: You receive 100% for your 10% participation grade and your final exam is now worth 24% of your grade.
-- 0 lectures attended: Your participation portion of your final grade is 0% and your final exam is now worth 34% of your grade.
-- 12 lectures attended: You receive 100% for 6% (60% of 10%) of your final grade for participation. Your final exam is worth 28% (24% + 4%) of your final grade.
+This policy also covers what happens if you miss an in-class exam for any reason. If you are absent for an in-class exam, you get a 0, and then whatever score you get on the final exam for that section will be applied to your exam grade. There are no make-up in-class exams, and the final exam policy is governed by the [university’s policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/){:target="_blank"}.
 
 <a id="policies"></a>
 ## Policies
