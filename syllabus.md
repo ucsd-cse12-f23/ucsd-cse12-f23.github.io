@@ -104,7 +104,7 @@ We encourage you to find your preferred method for staying engaged with the cour
 
 ### Stepik Exercises (Textbook)
 
-Along with each lecture will come some optional pre-lecture from our 
+Along with each lecture will come some optional pre-lecture work from our 
 [Stepik textbook](https://stepik.org/course/109917/syllabus){:target="_blank"}.
 
 The Stepik online texbook records your progress, and we give a schedule of expected times to finish the readings 
