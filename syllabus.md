@@ -124,7 +124,7 @@ a staff member will grade your work and get feedback on what, if anything, you n
 
 - **After you receive your grade** you can continue to improve your assignment
 based on the feedback from grading. You can resubmit your work to the Late/Resubmit 
-submission which will be open for *two weeks* (less for those assignemnts near 
+submission which will be open for **two weeks** (less for those assignemnts near 
 the end of the quarter). Once the Late/Resubmit submission closes, your submission
 will again be graded. 
 
