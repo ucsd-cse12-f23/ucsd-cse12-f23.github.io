@@ -12,11 +12,9 @@ videos:
 
 _{{ page.released-on }}_
 
-Readings (to be completed **before** lecture). You will need to make an account on Stepik to have your work saved.
+Optional readings (to be completed **before** lecture). You will need to make an account on Stepik to have your work saved.
 - [Stepik 1.1](https://stepik.org/lesson/660933/step/1?unit=658548){:target="_blank"}
 - [Stepik 2.1-2.6](https://stepik.org/lesson/693583/step/1?unit=693185){:target="_blank"}
-
-To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/4UwhBqLGQaZKmwcF7){:target="_blank"} by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
 
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
@@ -33,7 +31,7 @@ Videos (to watch **before** lecture):
 
 ## Notes & Files from Pre-Lecture Videos
 
-[Pre-Lecture 2](https://github.com/ucsd-cse12-sp23/ucsd-cse12-sp23.github.io/tree/main/_pre-lectures/lecture-02){:target="_blank"}
+[Pre-Lecture 2](https://github.com/ucsd-cse12-f23/ucsd-cse12-f23.github.io/tree/main/_pre-lectures/lecture-02){:target="_blank"}
 
 ## Handout
 
