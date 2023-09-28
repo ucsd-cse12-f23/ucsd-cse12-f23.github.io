@@ -91,3 +91,16 @@ Running on Windows systems:
 ## Submitting
 
 There is no submission for this assignment.
+
+## Java Refresher Resources
+
+Text-Based
+- Benjamin Evans and David Flanagan: Java in a Nutshell, 7th edition, O'Reilly, 2018 [online](https://www.oreilly.com/library/view/java-in-a/9781492037248/){:target="_blank"} (this is a great reference book, but if you have another, that's OK)
+- [http://docs.oracle.com/javase/tutorial/Links](http://docs.oracle.com/javase/tutorial/Links){:target="_blank"}  (text tutorial)
+- [http://www.javaworld.com/article/2075202/core-java/object-oriented-language-basics-part-1.html](http://www.javaworld.com/article/2075202/core-java/object-oriented-language-basics-part-1.html){:target="_blank"} (text tutorial)
+
+Video-Based
+- [https://www.youtube.com/watch?v=WPvGqX-TXP0](https://www.youtube.com/watch?v=WPvGqX-TXP0){:target="_blank"} (30 minutes, uses Eclipse)
+- [https://www.udemy.com/dotrootjava/](https://www.udemy.com/dotrootjava/){:target="_blank"} (6 hours video, uses IntelliJ, pay)
+- [https://www.udemy.com/java-tutorial/](https://www.udemy.com/java-tutorial/){:target="_blank"} (16 hours video, Eclipse)
+- [https://www.youtube.com/playlist?list=PL9DF6E4B45C36D411](https://www.youtube.com/playlist?list=PL9DF6E4B45C36D411){:target="_blank"} (9 hours, Cave of Programming Series, in Eclipse)
