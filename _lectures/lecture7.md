@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 7
 name: Stacks, Queues
-released-on: "2023-04-17"
+released-on: "2023-10-13"
 videos:
   - title: Stacks, Queues, 2D Search
     url: https://drive.google.com/file/d/136LTVlzlMqF74-3kty4FN7pinvue4oQD
@@ -12,7 +12,7 @@ videos:
 
 _{{ page.released-on }}_
 
-Readings (to be completed **before** problem session). 
+Optional readings (to be completed **before** problem session). 
 - [Stepik 9.1-9.5](https://stepik.org/lesson/697511/step/1?unit=697369){:target="_blank"}
 
 Videos (to watch **before** problem session):
@@ -25,7 +25,7 @@ Videos (to watch **before** problem session):
 
 ## Notes & Files from Pre-Lecture Videos
 
-[Pre-Lecture 7](https://github.com/ucsd-cse12-sp23/ucsd-cse12-sp23.github.io/tree/main/_pre-lectures/lecture-07){:target="_blank"}
+[Pre-Lecture 7](https://github.com/ucsd-cse12-f23/ucsd-cse12-f23.github.io/tree/main/_pre-lectures/lecture-07){:target="_blank"}
 
 ## Handout
 
@@ -33,4 +33,4 @@ Videos (to watch **before** problem session):
 
 ## Notes & Files from Live-Lecture
 
-[Lecture Notes](https://github.com/ucsd-cse12-sp23/ucsd-cse12-sp23.github.io/tree/main/_lectures/lecture-07){:target="_blank"}
+[Lecture Notes](https://github.com/ucsd-cse12-f23/ucsd-cse12-f23.github.io/tree/main/_lectures/lecture-07){:target="_blank"}
