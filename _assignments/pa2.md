@@ -368,9 +368,9 @@ If you have any policy questions, please ask!
 
 ## Style
 
-On this assignment, we will give you feedback on style but not deduct points
-for problems with style. In future assignments, we will deduct style points if 
-you have:
+On this assignment, we will  not deduct points
+for problems with style. Please use good style, especially when 
+getting help from tutors: code must be easily readable.
 
 - Lines in code files that are longer than 100 characters
 - Inconsistent indentations
