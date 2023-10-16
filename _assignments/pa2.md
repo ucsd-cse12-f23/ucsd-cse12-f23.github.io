@@ -389,7 +389,6 @@ Checklist:
 - A correct and thorough set of tests
 - 2 implementations of `MyChooser` (in addition to `LongWordChooser`)
 - 2 implementations of `MyTransformer` (in addition to `UpperCaseTransformer`)
-- 2 assignment questions
 
 
 ## Submitting
