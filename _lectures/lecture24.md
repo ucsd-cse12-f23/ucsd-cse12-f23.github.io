@@ -25,7 +25,7 @@ Videos (to watch **before** problem session):
 
 ## Notes & Files from Pre-Lecture Videos
 
-[Pre-Lecture 24](https://github.com/ucsd-cse12-f22/ucsd-cse12-f23.github.io/tree/main/_pre-lectures/lecture-24){:target="_blank"}
+[Pre-Lecture 24](https://github.com/ucsd-cse12-f23/ucsd-cse12-f23.github.io/tree/main/_pre-lectures/lecture-24){:target="_blank"}
 
 ## Handout
 
