@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 22
 name: Iterators
-released-on: "2023-11-24"
+released-on: "2023-11-27"
 videos:
   - title: Iterators
     url:  https://drive.google.com/file/d/1guSwMbblq_zYcQLQNxzORhZ9RbjaH8Ii
