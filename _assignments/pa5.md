@@ -405,7 +405,7 @@ On the Gradescope assignment **Programming Assignment 5 - code** please submit t
         
 You may encounter errors if you submit extra files or directories. You may submit as many times as you like till the deadline. 
 
-## Scoring (40 points total)
+## Scoring (35 points total)
 
 - 10 points: `isValidPartitionResult`, graded automatically
 - 5 points: `generateInput`, graded automatically
