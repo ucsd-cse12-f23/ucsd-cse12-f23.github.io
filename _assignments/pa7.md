@@ -276,7 +276,7 @@ For this PA, your unit tests will be graded for completion only, however, we **s
 * You are allowed to use code provided in lecture or discussion
 * **About “alphabetical” order** It is derived from `compareTo()` result
 
-## Style (5 points)
+## Style (0 points)
 
 The following files should have good style:
 
