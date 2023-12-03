@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 25
 name: Design Patterns
-released-on: "2023-12-01"
+released-on: "2023-12-04"
 ---
 
 ## Problem Session 25 – Design Patterns
