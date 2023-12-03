@@ -11,7 +11,7 @@ _{{ page.released-on }}_
 
 There is no pre-lecture video. Either come to lecture or watch the podcast.
 
-Readings (to be completed **before** problem session). 
+Optional readings (to be completed **before** problem session). 
 - No Stepik readings
 
 Videos (to watch **before** problem session):
